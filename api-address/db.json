@@ -1,0 +1,18 @@
+{
+    "address": [
+        {
+            "street": "Rua das Flores",
+            "city": "São Paulo",
+            "state": "São Paulo",
+            "cep": "12345000",
+            "id": "12345000"
+        },
+        {
+            "street": "Rua Clean Architecture",
+            "city": "Uberlândia",
+            "state": "Minas Gerais",
+            "cep": "12345001",
+            "id": "12345001"
+        }
+    ]
+}
